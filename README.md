@@ -1,2 +1,3 @@
-# python-gtk3-template
-template repo for development of Python GTK3 based apps
+# Kontractors
+Collection of contract for elementary OS Files application
+
